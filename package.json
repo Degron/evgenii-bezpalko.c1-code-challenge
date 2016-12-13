@@ -1,0 +1,20 @@
+{
+  "name": "take-home-test",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "co": "^4.6.0",
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "version": "0.0.1",
+  "main": "server.js",
+  "author": "Evgenii Bezpalko",
+  "devDependencies": {
+    "cucumber": "^2.0.0-rc.1",
+    "expect": "^1.20.2",
+    "sugar": "^2.0.4"
+  }
+}
